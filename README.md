@@ -81,7 +81,7 @@ The game is built using **Pygame** with standard Snake rules:
 - It learns **optimal moves** based on past experiences.  
 - Uses **PyTorch** for training the model.  
 
-### 3️⃣ **Training the AI (train.py)**  
+### 3️⃣ **Training the AI (helper.py)**  
 The **Q-Learning algorithm** trains the AI:  
 - AI starts by **moving randomly**.  
 - Over time, it **learns which actions are better**.  
