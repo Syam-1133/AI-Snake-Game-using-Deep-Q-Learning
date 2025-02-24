@@ -104,7 +104,7 @@ The **Q-Learning algorithm** trains the AI:
 
 ## 👨‍💻 **Author**  
 - **[Your Name]**  
-- 📧 Email: your.email@example.com  
+- 📧 Email: syamkklr123@gmail.com 
 - 🌍 [GitHub Profile](https://github.com/Syam-1133)  
 
 ---
