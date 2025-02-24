@@ -44,7 +44,7 @@ pip install pygame torch numpy matplotlib
 ### 🚀 **Step 3: Run the AI Training**  
 To start training the AI:  
 ```sh
-python train.py
+python helper.py
 ```
 The AI will **begin playing and improving automatically**.  
 
@@ -64,7 +64,7 @@ Watch the AI **play and improve over time!** 🎉
 | `game.py`    | Implements the **Snake Game** using Pygame. |
 | `agent.py`   | Runs the AI agent and allows it to play. |
 | `model.py`   | Defines the **Neural Network** used for decision-making. |
-| `train.py`   | Trains the AI using **Deep Q-Learning**. |
+| `helper.py`   | Trains the AI using **Deep Q-Learning**. |
 | `README.md`  | Documentation for the project. |
 
 ---
@@ -93,14 +93,7 @@ The **Q-Learning algorithm** trains the AI:
 - AI **plays automatically** without human input.  
 - Over time, it **gets better and survives longer**.  
 
----
 
-## 🎥 **Demo**  
-Here’s a preview of the AI learning to play the Snake Game:  
-
-![AI Snake Game Demo](https://your-image-link.com)  
-
----
 
 ## 🚀 **Future Improvements**  
 🔹 Add **more advanced AI algorithms** (like DQN with Experience Replay).  
@@ -113,7 +106,7 @@ Here’s a preview of the AI learning to play the Snake Game:
 ## 👨‍💻 **Author**  
 - **[Your Name]**  
 - 📧 Email: your.email@example.com  
-- 🌍 [GitHub Profile](https://github.com/yourusername)  
+- 🌍 [GitHub Profile](https://github.com/Syam-1133)  
 
 ---
 
