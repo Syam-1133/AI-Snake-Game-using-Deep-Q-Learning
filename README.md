@@ -31,8 +31,7 @@ The AI **learns by playing** through trial and error. It follows these steps:
 
 ### 🛠 **Step 1: Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/snake-ai.git
-cd snake-ai
+git clone https://github.com/Syam-1133/AI-Snake-Game-using-Deep-Q-Learning
 ```
 
 ### 🛋 **Step 2: Install Dependencies**  
